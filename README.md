@@ -61,7 +61,7 @@ Shell • Microsoft Office • Git • GitHub
 - Location: Kolkata, West Bengal
 - Engaged in a 4-month training focused on web development.
 - Designed and created visually appealing and user-friendly web designs.
-- Demonstrated expertise in building dynamic websites using HTML, CSS, and JavaScript, PHP, Rest api.
+- Demonstrated expertise in building dynamic websites using HTML, CSS, and JavaScript, PHP, Rest api,python.
 
 ## Competitions
 
