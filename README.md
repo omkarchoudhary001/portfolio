@@ -3,7 +3,7 @@
 
 - Contact: +91 766750XXXX
 - Email: omkarchy27@gmail.com
-- Last Updated:  4 oct 2023
+![Screenshot (13)](https://github.com/omkarchoudhary001/portfolio/assets/109873576/f9847ee6-ae97-4f3c-89e8-5ad49cb445a5)
 
 ## Education
 
@@ -20,6 +20,9 @@
 
 - [GitHub](https://github.com/omkarchoudhary001)
 - [LinkedIn](https://www.linkedin.com/in/omkar-choudhary/)
+
+
+https://github.com/omkarchoudhary001/portfolio/assets/109873576/6405201f-819f-4da9-8bb9-14e4797068cb
 
 ## Coursework
 
@@ -89,6 +92,7 @@ tracking processes.Thisprojectaimed to optimize attendance management in educati
 -Decreased program expenditures by 90% through implementing an electronic document management system
 Improved and speeded thecompany’sonline billing system by 50% by showing the management the cost- benefits
 
+![Screenshot (14)](https://github.com/omkarchoudhary001/portfolio/assets/109873576/c5b13257-b011-4d19-b6d1-0501cf041eb4)
 
 ###### INTERNSHIP EXPERIENCE ##########
 
