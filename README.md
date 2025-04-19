@@ -8,11 +8,11 @@
 ## Education
 
 - B.Tech in IT, JIS College of Engineering
-  - Graduation year: 2022
+  - Graduation year: 2018-2022
   - Location: Kolkata, West Bengal
 
 - Senior Secondary Education, M.M.T.M College
-  - Graduation Date:2015-2016
+  -  Date:2015-2018
   - Location: Bihar,india
   
 
@@ -27,6 +27,7 @@ https://github.com/omkarchoudhary001/portfolio/assets/109873576/6405201f-819f-4d
 ## Coursework
 
 - Web Engineering
+- Data Engineer
 - Knowledge Representation and Reasoning
 - SQL
 - Data Structures and Algorithms
@@ -35,6 +36,7 @@ https://github.com/omkarchoudhary001/portfolio/assets/109873576/6405201f-819f-4d
 - Software Engineering
 - Frontend Development
 - Backend Development
+  
 - Python, C 
 - HTML, CSS, Javascript
 
