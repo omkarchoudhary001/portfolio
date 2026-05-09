@@ -296,6 +296,8 @@ color: var(--first-color);
 }
 .home__blob-img{
     width: 200px;
+    height: 187px;
+    object-fit: cover;
 }
 .home__data{
     grid-column: 1/3;
